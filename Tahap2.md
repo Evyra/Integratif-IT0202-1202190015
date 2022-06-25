@@ -42,7 +42,7 @@
 <br>`php artisan make:controller NewsController`
 
 5. Menjalankan migration dan seeding
-<br>`php artisan migrate:fresh  
+<br>`php artisan migrate:fresh`  
 <br>`php artisan migrate:seed` 
   <img width="396" alt="3" src="https://user-images.githubusercontent.com/93085602/175757767-42d924fc-7238-449e-a251-c1b6f6c7faf4.PNG">
   <img width="276" alt="4" src="https://user-images.githubusercontent.com/93085602/175757768-80232c17-525f-484a-9707-8cb0b604a1d8.PNG">
