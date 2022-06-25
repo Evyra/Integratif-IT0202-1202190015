@@ -38,12 +38,12 @@
   <img width="960" alt="1 1" src="https://user-images.githubusercontent.com/93085602/175757581-a2722edb-9cd0-4999-a2f4-cf9f5a3302f7.PNG">
 
 4. Membuat file RssController.php dan NewsController.php 
-<br>`php artisan make:controller RssController
-<br>php artisan make:controller NewsController`
+<br>`php artisan make:controller RssController`
+<br>`php artisan make:controller NewsController`
 
 5. Menjalankan migration dan seeding
-<br>`php artisan migrate:fresh
-<br>php artisan migrate:seed` 
+<br>`php artisan migrate:fresh  
+<br>`php artisan migrate:seed` 
   <img width="396" alt="3" src="https://user-images.githubusercontent.com/93085602/175757767-42d924fc-7238-449e-a251-c1b6f6c7faf4.PNG">
   <img width="276" alt="4" src="https://user-images.githubusercontent.com/93085602/175757768-80232c17-525f-484a-9707-8cb0b604a1d8.PNG">
 
@@ -60,9 +60,9 @@
   <img width="960" alt="1 2" src="https://user-images.githubusercontent.com/93085602/175757903-ce873d4d-7642-4a80-a1a2-392a8ede4d05.PNG">
 
 10. Jalankan perintah berikut, sebelum membuka IP RSS yang telah kita buat
-<br>`php artisan migrate:fresh
-<br>php artisan migrate:seed
-<br>php artisan serve`
+<br>`php artisan migrate:fresh`
+<br>`php artisan migrate:seed`
+<br>`php artisan serve`
 
 11. Lalu bukalah IP nya
   <img width="960" alt="6" src="https://user-images.githubusercontent.com/93085602/175757938-3c70dddd-f16f-4e1c-9925-bf02a17a4c1c.PNG">
