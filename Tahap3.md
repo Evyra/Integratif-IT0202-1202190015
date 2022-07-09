@@ -74,4 +74,13 @@
 <h3>SELESAI</h3>
 
 
-<h2>TAHAP 2</H2>
+<h2>TAHAP 3</H2>
+RSS yang digunakan pada tahap ini:
+1. https://www.koreatimes.co.kr/www/rss/nation.xml
+2. https://news.un.org/feed/subscribe/en/news/topic/women/feed/rss.xml
+3. https://feeds.skynews.com/feeds/rss/uk.xml
+
+
+
+
+
