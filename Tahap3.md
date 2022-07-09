@@ -81,6 +81,9 @@ RSS yang digunakan pada tahap ini:
 <br>3. https://feeds.skynews.com/feeds/rss/uk.xml
 
 
+Hasil Berita Terkini dengan menggunakan 3 RSS 
+<img width="960" alt="Capture" src="https://user-images.githubusercontent.com/93085602/178114425-8f009470-78d3-41d6-b28e-407826b35351.PNG">
+
 
 
 
